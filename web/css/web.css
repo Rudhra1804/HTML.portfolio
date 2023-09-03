@@ -1,0 +1,31 @@
+.vid
+{
+  display: flex;
+  justify-content: right;
+  align-items: end;
+  box-shadow: 40px;
+  background-color: rgb(255, 255, 0);
+}
+.container-fluid{
+  background-color: rgba(128, 128, 128, 0.832);
+  position:relative;
+}
+.t{
+ 
+  width: 50%;
+  height: 50%;
+ padding-bottom: 25%;
+ padding-left: 10%;
+ font-size: 500%;
+ font-weight: bolder ;
+}
+.para{
+  height:50%;
+  width: 30%;
+  padding-right: 5%;
+  padding-bottom: 10%;
+  font-weight: bold;
+}
+.container-fluid{
+  font-size: x-large;
+}

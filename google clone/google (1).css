@@ -1,0 +1,40 @@
+.google{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+   }
+   .nav{
+   height: 10px;
+    display: flex;
+    justify-content: flex-end;
+   }
+   .topnav  {
+    padding-inline-end: 25%;
+    border-radius: 50px;
+    
+    border-style:ridge;
+  }
+  .search{
+    position: relative;
+    left: 10%;
+  }
+  .mic{
+    position: relative;
+    left: 480%;
+  }
+  .cam{
+    position: relative;
+    left: 480%;
+  }
+  .button{
+    padding-top: 2%;
+  }
+  .b1:hover{
+    background-color: grey;
+  }
+  .b2:hover{
+    background-color: rgb(141, 139, 139);
+  }
